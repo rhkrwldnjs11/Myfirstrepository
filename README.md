@@ -19,7 +19,7 @@
 
 * * *
 
-<img width="300" height="400" src="./png/냥이.png"></img>
+<img width="" height="" src="./png/냥이.png"></img>
 
 ## 4주차과제
-<img width="300" height="400" src="./png/4.png"></img>
+<img width="" height="" src="./png/4주차과제."></img>
