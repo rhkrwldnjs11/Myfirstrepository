@@ -22,4 +22,4 @@
 <img width="300" height="400" src="./png/냥이.png"></img>
 
 ## 4주차과제
-<img width="300" height="400" src="./png/4주차과제.PNG"></img>
+<img width="300" height="400" src="./png/4주차과제.png"></img>
